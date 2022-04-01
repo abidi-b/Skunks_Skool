@@ -687,6 +687,8 @@ Some data mining competition platforms
 - [InnoCentive](https://www.innocentive.com/)
 - [TuneedIT](https://tunedit.org/challenges)
 - [Microprediction](https://www.microprediction.com/python-1)
+- [data science competitions](https://competitions.codalab.org/competitions/)
+- [machine learning competitions](https://machinehack.com/hackathon)
 
 
 # Fun
@@ -797,9 +799,13 @@ Some data mining competition platforms
 - [DrivenData](https://www.drivendata.org/)
 - [Data Science Society](https://www.datasciencesociety.net/)
 - [Reddit-Data Science](https://www.reddit.com/r/datascience/)
+- [Data Science Society](https://www.datasciencesociety.net/)
+
 
 ## Algorithm Communities
 - [Commonlounge Algorithm Community](https://www.commonlounge.com/community/919705a0927646f9b49853ba13793b36)
 - [Hackr.io Algorithm Tutorials](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [Youth4Work Alogrithm Forum](https://www.youth4work.com/Talent/Data-Structure/Forum)
+
+
 
